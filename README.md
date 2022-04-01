@@ -19,7 +19,7 @@ The project uses [Moment](https://www.npmjs.com/package/moment), a JavaScript da
 Clone and fork the repository to make the changes in your local system.
 
 ```git-bash
-git clone https://github.com/iamrohitagg/GitHub_Graph.git
+git clone https://github.com/ehsanghaffarii/git-bot.git
 cd Github_Graph
 ```
 
@@ -53,4 +53,3 @@ add(days, "d");
 Difference of commits between timestamps. Less the value of days, more dense the contributon graph will be. Example - add(4,'d')
 
 ### Reference
-[YouTube](https://www.youtube.com/watch?v=2q--gA97caM)
