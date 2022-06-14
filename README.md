@@ -19,7 +19,9 @@ The project uses [Moment](https://www.npmjs.com/package/moment), a JavaScript da
 Clone and fork the repository to make the changes in your local system.
 
 ```git-bash
+
 git clone https://github.com/hedayat-atefi/git-bot.git
+
 cd Github_Graph
 ```
 
